@@ -1,7 +1,3 @@
-Assignment 3: Two Dragons with cool different lighting
+CPE 471 Final Project: Super Monkey Ball inpired OpenGL game
 
 Author: Nick Ponce
-
-Note:
-I used the spheres as suggested rather than the dragons,
-but the dragons do render on my machine in about 25 seconds.
